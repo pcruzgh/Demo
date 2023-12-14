@@ -1,5 +1,7 @@
 /* Inicio de projeto */ 
 
-data _a;
+data _c;
 set sashelp.teste;
 run;
+
+/* corrigido problema detetado*/
